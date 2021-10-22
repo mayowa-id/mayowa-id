@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mayowa-id
-- 👀 I’m interested in Web design
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on Web design projects
-- 📫 How to reach me idowumayowa02@gmail.com
+ I’m Mayowa
+I’m interested in Web design and development( HTML, Javascript and CSS)
+ I’m looking to collaborate on Web design projects
+Contact me idowumayowa02@gmail.com
 
 <!---
 mayowa-id/mayowa-id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
