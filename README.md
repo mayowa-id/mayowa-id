@@ -1,5 +1,5 @@
 #
-When I'm not refactoring slop code, I'm watching a film or I'm playing chess.
+When I'm not refactoring slop code, I'm watching a film or playing chess.
 
 Check repos to see Projects and implementation of advanced paradigms.
 
