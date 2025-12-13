@@ -5,6 +5,6 @@ Check repos to see Projects and implementation of advanced paradigms.
 
 Portfolio: https://mayowaportfolio.geraniol.xyz
 
-Contact idowumayowa02@gmail.com
+Mail: idowumayowa02@gmail.com
 
 
